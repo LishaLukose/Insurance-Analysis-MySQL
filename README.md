@@ -10,7 +10,7 @@ and potential risk factors to support data-driven decisions in the insurance dom
 - Identify common claim patterns and high-claim customer profiles
 - Use SQL to filter, aggregate, and extract meaningful insights from the dataset
 
-## 🗃️ Dataset
+## Dataset
 
 - `insurance_data.csv` (or stored in SQL DB)
 - Contains the following fields:
