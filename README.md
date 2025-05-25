@@ -10,20 +10,34 @@ and potential risk factors to support data-driven decisions in the insurance dom
 - Identify common claim patterns and high-claim customer profiles
 - Use SQL to filter, aggregate, and extract meaningful insights from the dataset
 
-## Dataset
+## Dataset for Branch
 
-- `insurance_data.csv` (or stored in SQL DB)
-- Contains the following fields:
-  - `Customer_ID`
-  - `Age`
-  - `Gender`
-  - `Region`
-  - `Policy_Type`
-  - `Premium_Amount`
-  - `Claim_Amount`
-  - `Number_of_Claims`
-  - `Customer_Since`
+- `Individual Budgets.csv`
+- `Opportunity.csv`
+- `brokerage.csv`
+- `fees.csv`
+- `invoice.csv`
+- `meeting.csv`
 
-## 🛠️ Tools Used
+## Dataset for Policy
 
-- MySQL / PostgreSQL
+- `Additional Fields.csv`
+- `Claims.csv`
+- `Customer Information.csv`
+- `Payment History.csv`
+- `Policy Details.csv`
+
+## Tools & Technologies
+
+- **Database:** MySQL 8.x  
+- **Client:** MySQL Workbench 
+- **Language:** SQL
+
+  ## Key Features
+
+- Import and clean insurance datasets using SQL
+- Join multiple tables to create unified customer and policy views
+- Perform advanced filtering, grouping, and aggregation
+- Identify patterns in customer behavior, policy performance, and claims
+
+
