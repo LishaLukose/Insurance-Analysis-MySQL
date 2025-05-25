@@ -1,4 +1,4 @@
-# LishaLukose-Insurance-Analysis-MySQL
+# Insurance-Analysis-MySQL
 
 This project involves the exploration and analysis of insurance-related data using SQL. The goal is to uncover insights such as customer demographics, premium trends, claim patterns, 
 and potential risk factors to support data-driven decisions in the insurance domain.
