@@ -40,4 +40,11 @@ and potential risk factors to support data-driven decisions in the insurance dom
 - Perform advanced filtering, grouping, and aggregation
 - Identify patterns in customer behavior, policy performance, and claims
 
+   ## Key Takeaways
+
+- Renewals are strong, but New and Cross Sell need attention.
+- Major gap between achieved vs. invoiced — may need process review.
+- High-value deals are stuck mid-funnel — targeted follow-up needed.
+- Employee productivity varies — use this to optimize sales strategy.
+- Opportunities are concentrated in a few products and names — diversification may reduce risk.
 
